@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6ccfcdea-1597-48f9-8211-08a1017d8eb6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/organization/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/organization/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/organization/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/organization/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/org-detail-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/org-detail-course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/org-detail-desc.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/org-detail-desc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/org-detail-teachers.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/org-detail-teachers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/org_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/org_base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +34,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -123,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574653161273</updated>
-      <workItem from="1574653162905" duration="84142000" />
+      <workItem from="1574653162905" duration="91990000" />
     </task>
     <servers />
   </component>
